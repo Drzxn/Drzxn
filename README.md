@@ -43,7 +43,7 @@ const darshan = {
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ ![Tech Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=red)
 
 **Languages**
 
